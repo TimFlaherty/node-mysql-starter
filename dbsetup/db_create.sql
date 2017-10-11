@@ -1,0 +1,13 @@
+-- db_create.sql
+
+DROP DATABASE IF EXISTS testdb;
+
+CREATE DATABASE testdb;
+
+USE testdb;
+
+CREATE TABLE person (
+id INT(3) ZEROFILL NOT NULL AUTO_INCREMENT PRIMARY KEY,
+fname VARCHAR(15) NOT NULL,
+lname VARCHAR(20) NOT NULL
+);
