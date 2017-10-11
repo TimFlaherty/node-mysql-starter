@@ -1,4 +1,5 @@
 #node-mysql-starter
+
 node-mysql-starter provides a simple starting point for web applications, serving static HTML from node.js and making AJAX calls to a MySQL database.
 
 ###Dependencies
