@@ -3,12 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {
-  },
+  "scripts": {},
   "author": "Tim Flaherty",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^3.3.7",
     "express": "^4.14.0",
     "mysql": "^2.14.1",
     "serve-static": "^1.13.1"
